@@ -6,6 +6,7 @@ metadata:
   namespace: demo
   labels:
     app: podinfo
+    version: 1
   annotations:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: regex:^3.10.*
