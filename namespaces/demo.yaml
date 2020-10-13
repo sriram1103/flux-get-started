@@ -3,4 +3,5 @@ kind: Namespace
 metadata:
   labels:
     name: demo
+    version: 1
   name: demo
